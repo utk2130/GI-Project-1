@@ -23,6 +23,8 @@ public class Model {
         this.description=description;
         this.published=published;
     }
+
+    public Model(){}
     // getters and setters
 
     public boolean isPublished() {
